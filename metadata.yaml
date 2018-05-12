@@ -1,0 +1,33 @@
+_repo: The-Nerve-of-FoleyAnd-Other-Railroad-Stories_33947
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33947-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Spearman, Frank H. (Frank Hamilton)
+    alias: Spearman, Frank Hamilton
+    birthdate: 1859
+    deathdate: 1937
+    gutenberg_agent_id: '25772'
+    url: http://www.gutenberg.org/2009/agents/25772
+    wikipedia: http://en.wikipedia.org/wiki/Frank_H._Spearman
+description: ''
+gutenberg_issued: '2010-10-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33947'
+  lccn: '00001353'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Railroad stories'
+- !lcsh 'Fiction'
+- !lcc 'PS'
+tableOfContents: The nerve of Foley -- Second seventy-seven -- The kid engineer --
+  The sky-scraper -- Soda-water Sal -- The McWilliams special -- The million-dollar
+  freight-train -- Bucks -- Sankey's double header -- Siclone Clark.
+title: The Nerve of Foley, and Other Railroad Stories
+url: http://www.gutenberg.org/ebooks/33947
